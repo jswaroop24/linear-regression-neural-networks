@@ -16,7 +16,7 @@ Given the inputs $x_1=3$ and $x_2=2$, the target output is **17**. The network s
 * **Configurable:** Easy to adjust learning rates and epochs to observe different training behaviors.
 
 ## 🛠️ Technologies Used
-* **Python 3.x**
+* **Python 3.14.2**
 * **NumPy** (for numerical operations)
 * **Matplotlib** (for data visualization)
 
