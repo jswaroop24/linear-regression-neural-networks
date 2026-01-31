@@ -24,8 +24,8 @@ Given the inputs $x_1=3$ and $x_2=2$, the target output is **17**. The network s
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/linear-regression-neural-net.git](https://github.com/YOUR_USERNAME/linear-regression-neural-net.git)
-    cd linear-regression-neural-net
+    git clone [https://github.com/YOUR_USERNAME/linear-regression-neural-networks.git](https://github.com/YOUR_USERNAME/linear-regression-neural-networks.git)
+    cd linear-regression-neural-networks
     ```
 
 2.  **Install dependencies:**
@@ -35,7 +35,7 @@ Given the inputs $x_1=3$ and $x_2=2$, the target output is **17**. The network s
 
 3.  **Run the script:**
     ```bash
-    python main.py
+    python main.ipynb
     ```
 
 ## 📊 Methodology
