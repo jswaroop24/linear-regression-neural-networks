@@ -1,4 +1,4 @@
-# Single Layer Perceptron a Simple Neural Network
+# Single Layer Perceptron - A Simple Neural Network
 
 A Python implementation of a basic neural network designed to solve a linear regression problem. This project demonstrates the core concepts of machine learning, including **Feed Forward**, **Backpropagation**, and **Gradient Descent**, built from scratch without high-level ML frameworks like TensorFlow or PyTorch.
 
